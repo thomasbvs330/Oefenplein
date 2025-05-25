@@ -1,6 +1,7 @@
 {
   "name": "oefenplein",
   "version": "0.1.0",
+  "Url"https://thomasbvs330.github.io/Oefenplein/
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
